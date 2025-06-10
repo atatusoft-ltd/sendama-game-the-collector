@@ -1,0 +1,6 @@
+{
+    "name": "The Collector",
+    "description": "A 2D ASCII terminal game.",
+    "version": "0.0.1",
+    "main": "the-collector.php"
+}
